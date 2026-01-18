@@ -14,7 +14,7 @@ It simulates a "Live Fire" cyber range using Docker on ARM64 architecture.
 ## SC-200 Lab Roadmap
 - [x] **Phase 0:** SC-200 Exam Awareness & Lab Setup
 - [x] **Phase 1:** Lab Infrastructure & Telemetry Foundation
-- [ ] **Phase 2:** Microsoft Sentinel Deployment & Configuration
+- [x] **Phase 2:** Microsoft Sentinel Deployment & Configuration
 - [ ] **Phase 3:** Microsoft Defender Integration
 - [ ] **Phase 4:** Threat Simulation (Red Team)
 - [ ] **Phase 5:** KQL & Threat Hunting
