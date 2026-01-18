@@ -1,0 +1,6 @@
+# Ignore logs directory
+logs/
+*.log
+
+# Ignore system files
+.DS_Store
